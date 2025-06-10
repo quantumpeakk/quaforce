@@ -29,7 +29,7 @@ QUA FORCE, etik penetrasyon testleri ve güvenlik araştırmaları için tasarla
 
 ### Kurulum Adımları
 ```bash
-git clone https://github.com/kullaniciadiniz/quaforce.git
+git clone https://github.com/quantumpeakk/quaforce.git
 cd quaforce
 pip install -r requirements.txt
 
