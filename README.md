@@ -11,6 +11,7 @@ QUA FORCE, etik penetrasyon testleri ve güvenlik araştırmaları için tasarla
 - Kurulum adımlarını okuyup tool'u kurun
 - Tool u çalıştırın
 - Gerisini anlarsınız zaten
+- anlayamayanin aminigotunusikim
 
 ## 🌟 Öne Çıkan Özellikler
 - Çoklu kullanıcı adı/şifre denemesi
