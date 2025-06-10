@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
 ![Lisans](https://img.shields.io/badge/Lisans-MIT-green)
-![GitHub Yıldız](https://img.shields.io/github/stars/kullaniciadiniz/quaforce?style=social)
 
 QUA FORCE, etik penetrasyon testleri ve güvenlik araştırmaları için tasarlanmış gelişmiş bir brute force aracıdır.
 
@@ -25,7 +24,3 @@ QUA FORCE, etik penetrasyon testleri ve güvenlik araştırmaları için tasarla
 git clone https://github.com/kullaniciadiniz/quaforce.git
 cd quaforce
 pip install -r requirements.txt
-
-### Toolu başlatma
-```bash
-python quaforce.py
