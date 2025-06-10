@@ -5,6 +5,13 @@
 
 QUA FORCE, etik penetrasyon testleri ve güvenlik araştırmaları için tasarlanmış gelişmiş bir brute force aracıdır.
 
+## 😃 Kullanım Rehberi
+- Bir txt dosyasi oluşturun içinde denenecek kullanici isimleri olsun
+- Bir txt dosyasi daha oluşturun içinde denenecek şifreler olsun
+- Kurulum adımlarını okuyup tool'u kurun
+- Tool u çalıştırın
+- Gerisini anlarsınız zaten
+
 ## 🌟 Öne Çıkan Özellikler
 - Çoklu kullanıcı adı/şifre denemesi
 - Özel bekleme süresi (rate limiting önleme)
@@ -24,3 +31,8 @@ QUA FORCE, etik penetrasyon testleri ve güvenlik araştırmaları için tasarla
 git clone https://github.com/kullaniciadiniz/quaforce.git
 cd quaforce
 pip install -r requirements.txt
+
+```
+### Tool u başlatma
+```bash
+python quaforce.py
