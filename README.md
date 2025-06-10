@@ -25,3 +25,7 @@ QUA FORCE, etik penetrasyon testleri ve güvenlik araştırmaları için tasarla
 git clone https://github.com/kullaniciadiniz/quaforce.git
 cd quaforce
 pip install -r requirements.txt
+
+### Toolu başlatma
+```bash
+python quaforce.py
