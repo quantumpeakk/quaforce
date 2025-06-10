@@ -1,4 +1,4 @@
-# QUA FORCE - Gelişmiş Brute Force Aracı
+# QUA FORCE - Brute Force Aracı
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
 ![Lisans](https://img.shields.io/badge/Lisans-MIT-green)
